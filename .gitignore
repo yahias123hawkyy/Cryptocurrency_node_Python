@@ -1,0 +1,6 @@
+/__pycache__
+/message/__pycache__
+*.swp
+/snekel.db
+.vscode/
+peers.csv
